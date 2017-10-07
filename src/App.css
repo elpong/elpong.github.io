@@ -1,0 +1,25 @@
+.App {
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  padding-bottom: 60px;
+  color: white;
+}
+
+.App-top-row-button {
+  margin-right: 20px;
+  display: inline-block;
+  margin-bottom: 60px;
+}
+
+.App-editor * {
+  font-size: 16px;
+}
+.App-editor {
+  padding: 10px 12px;
+  border: 3px solid black;
+}
